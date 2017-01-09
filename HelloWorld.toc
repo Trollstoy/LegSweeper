@@ -1,0 +1,7 @@
+## Interface: 70100
+## Title: Hello World
+## Author: Hax McGee
+## Version: 0.1
+## Notes: My first AddOn changed
+
+main.lua
